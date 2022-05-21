@@ -4,7 +4,7 @@
 
 ##### Aqui está algumas informações interessantes
 
-##### Link do meu linkedin: linkedin.com/in/rafael-g-aguiar-1b513ab6
+##### Link do meu linkedin: https://www.linkedin.com/in/rafael-g-aguiar-1b513ab6
 
 ##### Vamos nos conectar?
 
