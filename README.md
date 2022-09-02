@@ -32,6 +32,7 @@ Projetos em SQL:
 
 Rascunhos:
 * [Prever quais são os colaboradores mais propensos a sair do emprego. Um caso usando Redes Neurais](https://github.com/rgaguiar/deep-learning-RH/blob/main/DeepLearning_RH.ipynb)
+* [Análise de dados textuais do relatório final da CPI da COVID](https://github.com/rgaguiar/data_science_Py/blob/main/an%C3%A1lise_dados_textuais_CPI_COVID.ipynb)
 
  
 #
