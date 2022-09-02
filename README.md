@@ -1,3 +1,6 @@
+<sub>*Cientista de Dados*</sub>
+
+[![author](https://img.shields.io/badge/author-Rafael-cyan.svg)](https://www.linkedin.com/in/rafael-g-aguiar-1b513ab6)
 
 # Sobre mim:
 
