@@ -21,14 +21,12 @@ Olá, me chamo Rafael Aguiar. Sou graduado em Estatística pela Universidade Fed
 ![](https://img.shields.io/badge/SciPy-informational?style=flat&logo=scipy&logoColor=white&color=8CAAE6)
 
 # 
-Projetos em Jupyter Notebooks:
+Projetos em Python:
 * [Análise exploratória de dados públicos: Despesas pela Cota de Exercício da Atividade Palamentar](https://github.com/rgaguiar/dados-publicos/blob/master/CotaParlamentar.ipynb)
-
-
 
 Projetos em R:
 
-
+Projetos em SQL:
 
 Rascunhos:
 * [Prever quais são os colaboradores mais propensos a sair do emprego. Um caso usando Redes Neurais](https://github.com/rgaguiar/deep-learning-RH/blob/main/DeepLearning_RH.ipynb)
