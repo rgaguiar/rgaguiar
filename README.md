@@ -4,7 +4,7 @@ Olá, me chamo Rafael Aguiar. Sou graduado em Estatística pela Universidade Fed
 
 # 
 Projetos em Jupyter Notebooks:
-* [Análise exploratória de dados públicos: Despesas pela Cota de Exercício da Atividade Palamentar](https://github.com/rgaguiar/dados-publicos)
+* [Análise exploratória de dados públicos: Despesas pela Cota de Exercício da Atividade Palamentar](https://github.com/rgaguiar/dados-publicos/blob/master/CotaParlamentar.ipynb)
 
 
 
