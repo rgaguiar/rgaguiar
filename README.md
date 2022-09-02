@@ -14,7 +14,7 @@ Olá, me chamo Rafael Aguiar. Sou graduado em Estatística pela Universidade Fed
 ![](https://img.shields.io/badge/Tableau-informational?style=plastic&logo=Tableau&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/-power%20bi?style=plastic&logo=amazon-aws&logoColor=white)
-![Power BI](https://img.shields.io/static/v1?style=for-the-badge&message=Power+BI&color=222222&logo=Power+BI&logoColor=F2C811&label=)
+![Power BI](https://img.shields.io/badge/v1?style=plastic&message=Power+BI&color=222222&logo=Power+BI&logoColor=F2C811&label=)
 
 **Bilbiotecas Py** 
 
