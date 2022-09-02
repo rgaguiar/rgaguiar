@@ -12,7 +12,11 @@ Projetos em R:
 
 
 
---
+Rascunhos:
+* [Prever quais quais são os mais propensos para sair do emprego usando Redes Neurais](https://github.com/rgaguiar/deep-learning-RH/blob/main/DeepLearning_RH.ipynb)
+
+ 
+#
 * [Linkedin](https://www.linkedin.com/in/rafael-g-aguiar-1b513ab6)
 
 
