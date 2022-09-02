@@ -20,6 +20,6 @@ Rascunhos:
 
  
 #
-[![Linkedin](https://img.shields.io/badge/-Vikesh%20Koul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-g-aguiar-1b513ab6/)](https://www.linkedin.com/in/rafael-g-aguiar-1b513ab6)
+[![Linkedin](https://img.shields.io/badge/-Rafael%20Aguiar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-g-aguiar-1b513ab6/)](https://www.linkedin.com/in/rafael-g-aguiar-1b513ab6)
 
 
