@@ -1,6 +1,18 @@
-### Hi there 👋
+### Sobre mim:
 
-#### 🔭 Olá, me chamo Rafael Aguiar. Sou graduado em Estatística pela Universidade Federal do Ceará (UFCe) e especialista em Ciência de Dados pelo Centro Universitário Farias Brito (FBuni). Atuo há 7 anos no mercado como analista estatístico e 1 ano atuando especificamente como Cientista de Dados.
+
+Olá, me chamo Rafael Aguiar. Sou graduado em Estatística pela Universidade Federal do Ceará (UFCe), especialista em Ciência de Dados pelo Centro Universitário Farias Brito (FBuni) e atualmente trabalho como cientista de dados. Neste repositório você encontrará meus projetos de Data Science. Sinta-se à vontade para entrar em contato comigo, fazer sugestões ou propor novas idéias para projetos.
+
+Projetos em Jupyter Notebooks:
+
+
+
+
+Projetos em R
+
+
+[linkedin](https://www.linkedin.com/in/rafael-g-aguiar-1b513ab6)
+
 
 ##### Aqui está algumas informações interessantes
 
