@@ -1,3 +1,6 @@
+[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+
+
 # Sobre mim:
 
 Olá, me chamo Rafael Aguiar. Sou graduado em Estatística pela Universidade Federal do Ceará (UFCe), especialista em Ciência de Dados pelo Centro Universitário Farias Brito (FBuni) e atualmente trabalho como cientista de dados. Neste repositório você encontrará meus projetos de Data Science. Sinta-se à vontade para entrar em contato comigo, fazer sugestões ou propor novas idéias para projetos.
