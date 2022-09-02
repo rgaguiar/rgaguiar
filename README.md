@@ -12,7 +12,7 @@ Olá, me chamo Rafael Aguiar. Sou graduado em Estatística pela Universidade Fed
 ![](https://img.shields.io/badge/R-informational?style=plastic&logo=R&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/SQL-informational?style=plastic&logo=MySQL&logoColor=white&color=teal)
 ![](https://img.shields.io/badge/Tableau-informational?style=plastic&logo=Tableau&logoColor=white&color=red)
-![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white)
 **Bilbiotecas Py** 
 
 ![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458)
