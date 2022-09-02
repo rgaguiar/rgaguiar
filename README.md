@@ -5,6 +5,11 @@
 
 Olá, me chamo Rafael Aguiar. Sou graduado em Estatística pela Universidade Federal do Ceará (UFCe), especialista em Ciência de Dados pelo Centro Universitário Farias Brito (FBuni) e atualmente trabalho como cientista de dados. Neste repositório você encontrará meus projetos de Data Science. Sinta-se à vontade para entrar em contato comigo, fazer sugestões ou propor novas idéias para projetos.
 
+![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458)
+![](https://img.shields.io/badge/ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=red)
+![](https://img.shields.io/badge/NumPy-informational?style=flat&logo=numpy&logoColor=white&color=013243)
+![](https://img.shields.io/badge/SciPy-informational?style=flat&logo=scipy&logoColor=white&color=8CAAE6)
+
 # 
 Projetos em Jupyter Notebooks:
 * [Análise exploratória de dados públicos: Despesas pela Cota de Exercício da Atividade Palamentar](https://github.com/rgaguiar/dados-publicos/blob/master/CotaParlamentar.ipynb)
