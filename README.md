@@ -1,12 +1,15 @@
-![](https://img.shields.io/badge/Python-informational?style=plastic&logo=Python&logoColor=white&color=blue)
-![](https://img.shields.io/badge/R-informational?style=plastic&logo=R&logoColor=white&color=darkblue)
-![](https://img.shields.io/badge/SQL-informational?style=plastic&logo=MySQL&logoColor=white&color=teal)
-![](https://img.shields.io/badge/Tableau-informational?style=plastic&logo=Tableau&logoColor=white&color=red)
 
 # Sobre mim:
 
 Olá, me chamo Rafael Aguiar. Sou graduado em Estatística pela Universidade Federal do Ceará (UFCe), especialista em Ciência de Dados pelo Centro Universitário Farias Brito (FBuni) e atualmente trabalho como cientista de dados. Neste repositório você encontrará meus projetos de Data Science. Sinta-se à vontade para entrar em contato comigo, fazer sugestões ou propor novas idéias para projetos.
 
+Ferramentas
+![](https://img.shields.io/badge/Python-informational?style=plastic&logo=Python&logoColor=white&color=blue)
+![](https://img.shields.io/badge/R-informational?style=plastic&logo=R&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/SQL-informational?style=plastic&logo=MySQL&logoColor=white&color=teal)
+![](https://img.shields.io/badge/Tableau-informational?style=plastic&logo=Tableau&logoColor=white&color=red)
+
+Bilbiotecas Py
 ![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458)
 ![](https://img.shields.io/badge/ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=red)
 ![](https://img.shields.io/badge/NumPy-informational?style=flat&logo=numpy&logoColor=white&color=013243)
