@@ -25,6 +25,7 @@ Olá, me chamo Rafael Aguiar. Sou graduado em Estatística pela Universidade Fed
 # 
 Projetos em Python:
 * [Análise exploratória de dados públicos: Despesas pela Cota de Exercício da Atividade Palamentar](https://github.com/rgaguiar/dados-publicos/blob/master/CotaParlamentar.ipynb)
+* [Análise de dados textuais do relatório final da CPI da COVID](https://github.com/rgaguiar/data_science_Py/blob/main/an%C3%A1lise_dados_textuais_CPI_COVID.ipynb)
 
 Projetos em R:
 
@@ -32,7 +33,7 @@ Projetos em SQL:
 
 Rascunhos:
 * [Prever quais são os colaboradores mais propensos a sair do emprego. Um caso usando Redes Neurais](https://github.com/rgaguiar/deep-learning-RH/blob/main/DeepLearning_RH.ipynb)
-* [Análise de dados textuais do relatório final da CPI da COVID](https://github.com/rgaguiar/data_science_Py/blob/main/an%C3%A1lise_dados_textuais_CPI_COVID.ipynb)
+
 
  
 #
