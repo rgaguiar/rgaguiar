@@ -1,5 +1,7 @@
-[![author](https://img.shields.io/badge/author-Rafael-red.svg)](https://www.linkedin.com/in/rafael-g-aguiar-1b513ab6) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![](https://img.shields.io/badge/R-4.2+-green.svg)](https://cran.r-project.org/bin/windows/base/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/rgaguiar/data_science_Py/issues)
-
+![](https://img.shields.io/badge/Python-informational?style=plastic&logo=Python&logoColor=white&color=blue)
+![](https://img.shields.io/badge/R-informational?style=plastic&logo=R&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/SQL-informational?style=plastic&logo=MySQL&logoColor=white&color=teal)
+![](https://img.shields.io/badge/Tableau-informational?style=plastic&logo=Tableau&logoColor=white&color=red)
 
 # Sobre mim:
 
