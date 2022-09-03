@@ -30,7 +30,7 @@ Projetos em Python:
 
 Projetos em R:
 
-em Desenvolvimento:
+Projetos em Desenvolvimento:
 * [Prever quais são os colaboradores mais propensos a sair do emprego. Um caso usando Redes Neurais](https://github.com/rgaguiar/deep-learning-RH/blob/main/DeepLearning_RH.ipynb)
 
 
