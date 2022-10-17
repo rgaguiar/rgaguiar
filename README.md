@@ -25,6 +25,7 @@ Olá, me chamo Rafael Aguiar. Sou graduado em Estatística pela Universidade Fed
 
 # 
 Projetos em Python:
+* [U-Net: Redes Convolucionais para Segmentação de Imagens Biomédicas](https://www.kaggle.com/code/rafaellgomes/u-net-segmenta-o-pulmonar)
 * [Análise de dados textuais do relatório final da CPI da COVID](https://github.com/rgaguiar/rgaguiar/blob/main/analise_dados_textuais_CPI_COVID.ipynb)
 * [Análise exploratória de dados públicos: Despesas pela Cota de Exercício da Atividade Palamentar](https://github.com/rgaguiar/dados-publicos/blob/master/CotaParlamentar.ipynb)
 
