@@ -8,7 +8,7 @@ Olá, me chamo Rafael Aguiar. Sou graduado em Estatística pela Universidade Fed
 * [Curriculum](https://github.com/rgaguiar/curriculum)  
 
 **Ferramentas**  
-
+![](https://img.shields.io/badge/Keras?style=plastic&logo=Python&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Python-informational?style=plastic&logo=Python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/R-informational?style=plastic&logo=R&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/SQL-informational?style=plastic&logo=MySQL&logoColor=white&color=teal)
