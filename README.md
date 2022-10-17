@@ -23,6 +23,7 @@ Olá, me chamo Rafael Aguiar. Sou graduado em Estatística pela Universidade Fed
 ![](https://img.shields.io/badge/NumPy-informational?style=flat&logo=numpy&logoColor=white&color=013243)
 ![](https://img.shields.io/badge/SciPy-informational?style=flat&logo=scipy&logoColor=white&color=8CAAE6)
 ![](https://img.shields.io/badge/Keras-informational?style=plastic&logo=keras&logoColor=white&color=red)
+![](https://img.shields.io/badge/TensorFlow-informational?style=plastic&logo=tensorFlow&logoColor=white&color=orange)
 
 # 
 Projetos em Python:
